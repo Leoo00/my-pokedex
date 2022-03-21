@@ -1,5 +1,4 @@
-alert('sai douglas  ')
- /*
+/*
  quando clicar no pokémon da listagem temos que esconder o cartão do pokémon aberto e mostrar o cartão correspondente ao que foi selecionaddo na linguagem
  
  pra isso vamos precisar trabalhar com dois elementos
